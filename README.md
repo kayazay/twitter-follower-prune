@@ -28,7 +28,11 @@ Before running this script, you will need:
     access_secret = 'your_access_secret_here'
     ```
 5. You would be prompted to input minimum number of followers for a Twitter user to be considered an influencer to you.
-6. Run the script using `python follower-prune.py`.
+6. Run the script using 
+
+    ```sh
+    python follower-prune.py
+    ```
 
 ## Usage
 
